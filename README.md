@@ -10,10 +10,13 @@ I am a **Full Stack Developer** with extensive experience in web and software de
 
 ## Experience
 
-- **Senior Full Stack Developer** at Zicure Corporation (Oct '21 - Present)  
+- Full Stack Developer** at LIVING INSIDER COMPANY LIMITED (Oct '24 - Present)  
+  EndUser Developer application React, Next.js, Nest.js, CakePHP, Laravel, Docker, Kubernetes, and PostgreSQL 
+
+- **Senior Full Stack Developer** at Zicure Corporation (Oct '21 - Oct '24)  
   Spearheading the development and maintenance of high-performance web applications using technologies like React, Next.js, Nest.js, CakePHP, Laravel, Docker, Kubernetes, and PostgreSQL.
 
-- **Full-stack Mentor** at WeStride Institute of Technology (Jan '24 - Present)  
+- **Full-stack Mentor** at WeStride Institute of Technology (Jan '21 - Oct '24)  
   Mentoring and training junior developers in full-stack development, enhancing team proficiency in modern web technologies such as HTML, CSS, JavaScript, React, Express.js, and MySQL.
 
 ## Education
