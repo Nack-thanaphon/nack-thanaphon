@@ -26,6 +26,11 @@ I am a **Full Stack Developer** with extensive experience in web and software de
 
 ## Projects
 
+
+- **Living Next**  
+  Application transformation from PHP to Next.js and microservices architecture, designed to provide robust end-user support. The platform is tailored to handle high-value clients,       
+  accommodating over 200,000 users daily. 
+
 - **CCDC Data Center**  
   Developed an internal system for the Department of Consular Affairs to handle data cleansing, export reports, and manage bans using CakePHP, Laravel, Express.js, PostgreSQL, and Ubuntu.
 
