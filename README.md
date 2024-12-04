@@ -1,7 +1,7 @@
 # Hi there, I'm Thanaphon Kallaprapruek 👋
 
 **Location:** Bangkok, Thailand  
-**Contact:** [thanaphon@we-stride.com](mailto:thanaphon@we-stride.com)  
+**Contact:** [e21bvz@gmail.com](mailto:e21bvz@gmail.com)  
 **Phone:** 0636749204
 
 ## About Me
