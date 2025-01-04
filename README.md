@@ -10,7 +10,7 @@ I am a **Full Stack Developer** with extensive experience in web and software de
 
 ## Experience
 
-- Full Stack Developer** at LIVING INSIDER COMPANY LIMITED (Oct '24 - Present)  
+- Full Stack Developer** at Living-Insider Company Limited (Oct '24 - Present)  
   EndUser Developer application React, Next.js, Nest.js, CakePHP, Laravel, Docker, Kubernetes, and PostgreSQL 
 
 - **Senior Full Stack Developer** at Zicure Corporation (Oct '21 - Oct '24)  
