@@ -3,6 +3,7 @@
 **Location:** Bangkok, Thailand  
 **Contact:** [e21bvz@gmail.com](mailto:e21bvz@gmail.com)  
 **Phone:** 0636749204
+**Project Presentation: https://shorturl.at/VMoFx
 
 ## About Me
 
