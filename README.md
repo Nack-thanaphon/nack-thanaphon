@@ -1,55 +1,96 @@
-# Hi there, I'm Thanaphon Kallaprapruek 👋
+# 👋 Hi there, I'm Thanaphon Kallaprapruek
 
-**Location:** Bangkok, Thailand  
-**Contact:** [e21bvz@gmail.com](mailto:e21bvz@gmail.com)  
-**Phone:** 0636749204  
-**Project-Presentation:** https://shorturl.at/VMoFx
+📍 **Bangkok, Thailand**  
+📧 [e21bvz@gmail.com](mailto:e21bvz@gmail.com)  
+📱 063-674-9204  
+📽️ [Project Showcase](https://shorturl.at/VMoFx)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thanaphon-kallaprapruek)  
+🌐 [contactus.work](https://contactus.work/#/)
 
-## About Me
+---
 
-I am a **Full Stack Developer** with extensive experience in web and software development. My expertise spans both front-end and back-end technologies, and I am proficient in various frameworks and tools. I am passionate about developing efficient and scalable solutions that enhance user experience and optimize performance.
+## 👨‍💻 About Me
 
-## Experience
+I'm a **Full Stack Developer** with hands-on experience in designing, developing, and deploying high-performance web applications. My stack includes modern frontend frameworks and scalable backend architectures. I’m passionate about creating seamless user experiences and building systems that scale to meet real-world demands.
 
-- **Full Stack Developer** at Living-Insider Company Limited (Oct '24 - Present)  
-  EndUser Developer application React, Next.js, Nest.js, CakePHP, Laravel, Docker, Kubernetes, and PostgreSQL 
+---
 
-- **Senior Full Stack Developer** at Zicure Corporation (Oct '21 - Oct '24)  
-  Spearheading the development and maintenance of high-performance web applications using technologies like React, Next.js, Nest.js, CakePHP, Laravel, Docker, Kubernetes, and PostgreSQL.
+## 💼 Experience
 
-- **Full-stack Mentor** at WeStride Institute of Technology (Jan '21 - Oct '24)  
-  Mentoring and training junior developers in full-stack development, enhancing team proficiency in modern web technologies such as HTML, CSS, JavaScript, React, Express.js, and MySQL.
+**Full Stack Developer**  
+**Living-Insider Company Limited** | _Oct 2024 – Present_  
+> Tech: React, Next.js, Nest.js, Laravel, CakePHP, Docker, Kubernetes, PostgreSQL
 
-## Education
+**Senior Full Stack Developer**  
+**Zicure Corporation** | _Oct 2021 – Oct 2024_  
+> Led major platform development with Microservices architecture using React, Next.js, Nest.js, Docker, K8s
 
-- **Mahidol University**  
-  Bachelor of Arts (BA) in Religion Studies | GPA: 3.01
+**Full-Stack Mentor**  
+**WeStride Institute of Technology** | _Jan 2021 – Oct 2024_  
+> Trained aspiring developers in React, Express.js, and MySQL, helping them grow into production-ready engineers.
 
-## Projects
+---
 
+## 🎓 Education
 
-- **Living Next**  
-  Application transformation from PHP to Next.js and microservices architecture, designed to provide robust end-user support. The platform is tailored to handle high-value clients,       
-  accommodating over 200,000 users daily. 
+**Mahidol University**  
+Bachelor of Arts in Religion Studies  
+GPA: **3.01**
 
-- **CCDC Data Center**  
-  Developed an internal system for the Department of Consular Affairs to handle data cleansing, export reports, and manage bans using CakePHP, Laravel, Express.js, PostgreSQL, and Ubuntu.
+---
 
-- **CCDC Data Exchange**  
-  Designed and implemented a high-load capacity data exchange system between departments using Kafka and Nest.js, deployed with Docker and Kubernetes (K8s).
+## 🛠️ Skills
 
-- **SKT Connect**  
-  Developed a sales page system using Microservices architecture with Next.js, Nest.js, PostgreSQL, Docker, K8s, and Postman, including API documentation and script testing.
+- **Frontend:** React, Next.js, TailwindCSS, Bootstrap, HTML, CSS, TypeScript, JavaScript  
+- **Backend:** Nest.js, Express.js, Laravel, CakePHP, CodeIgniter  
+- **DevOps:** Docker, Kubernetes, Git, CI/CD  
+- **Databases:** PostgreSQL, MySQL  
+- **Others:** Kafka, ElasticSearch, RESTful APIs, Linux, Cloudflare  
 
-## Skills
+---
 
-- **Frontend:** HTML, CSS, TypeScript, JavaScript, Bootstrap, TailwindCSS, React, Next.js
-- **Backend:** Express.js, Nest.js, CodeIgniter, CakePHP, Laravel
-- **DevOps:** Git, Docker, CI/CD, Kubernetes
-- **Databases:** PostgreSQL, MySQL
-- **Others:** Linux, Cloudflare, Kafka, ElasticSearch, RESTful APIs
+## 🚀 Highlight Projects
 
-## Let's Connect!
+- **Living Next:** Rebuilt monolithic PHP to Next.js microservices; 200k+ daily users.
+- **CCDC Data Center:** Internal gov system for bans, data cleansing, reports – CakePHP & PostgreSQL.
+- **CCDC Data Exchange:** Kafka-powered inter-department communication; deployed on Kubernetes.
+- **SKT Connect:** Microservices e-commerce platform with full API documentation and test automation.
 
-- [LinkedIn](https://www.linkedin.com/in/thanaphon-kallaprapruek)
-- [Contactus](https://contactus.work/#/)
+---
+
+## 🌐 Web Apps & Platforms
+
+| Project | Link |
+|--------|------|
+| AUN-HPN | [Visit](https://aun-hpn.or.th/) |
+| MUGH | [Visit](https://mugh.or.th/) |
+| CCDC Data Center | [Visit](https://ccdc-center.zi-platform.com/) |
+| FuFu-Cargo | [Visit](https://portal.fufucargo.com/login) |
+| Gogo-Cargo | [Visit](https://www.gogo-cargo.com/) |
+| Pd-House | [Visit](https://www.pd.co.th/) |
+| Mybeer Store | [Visit](https://myworld-store.com/) |
+| Mybeer Admin | [Visit](https://admin-myworld.vercel.app/login) |
+| Metanet | [Visit](https://dev.wonderland.metanetcorporation.com/) |
+| Living-insider | [Visit](https://test2.livinginsider.com/living_edit.php) |
+| Sufflix | [Visit](http://165.22.249.204:8080/) |
+| ปลาท่าโร่ | [Visit](https://taro.bigplay.uniga.app/) |
+| PPC Web | [Visit](https://ppc.uniga.app/) |
+| Clover App | [Visit](https://clover-app.netlify.app) |
+| GunJaGold | [Visit](https://gunjagold.com) |
+| Emerald-Gold | [Visit](http://www.emerald-grow.com/) |
+| LocoPack | [Visit](https://www.locopack.co/) |
+| UBIS Asia | [Visit](https://www.ubisasia.com/) |
+| DITP CRMS | [Visit](https://care.ditp.go.th/) |
+| IBSC MCU | [Visit](https://www.ibsc.mcu.ac.th/) |
+| SKT Connect | [Visit](http://skt-connect.com/) |
+| Data Exchange | [Visit](http://center-data-exchange.com) |
+| Clinic Management | [Visit](https://clinic-client-app.vercel.app/) |
+| THACCA | [Visit](https://thacca.go.th/) |
+
+---
+
+## 🤝 Let’s Connect
+
+📨 [e21bvz@gmail.com](mailto:e21bvz@gmail.com)  
+🌐 [contactus.work](https://contactus.work/#/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thanaphon-kallaprapruek)
