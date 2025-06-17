@@ -18,7 +18,11 @@ I'm a **Full Stack Developer** with hands-on experience in designing, developing
 ## 💼 Experience
 
 **Full Stack Developer**  
-**Living-Insider Company Limited** | _Oct 2024 – Present_  
+**fazwaz** | _May 2024 – Present_  
+> Tech: Next.js, Nest.js, Laravel, Docker, Kubernetes, PostgreSQL
+
+**Full Stack Developer**  
+**Living-Insider Company Limited** | _Oct 2024 – May 2025 
 > Tech: React, Next.js, Nest.js, Laravel, CakePHP, Docker, Kubernetes, PostgreSQL
 
 **Senior Full Stack Developer**  
