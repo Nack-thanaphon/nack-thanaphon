@@ -41,6 +41,10 @@ I'm a **Full Stack Developer** with hands-on experience in designing, developing
 Bachelor of Arts in Religion Studies  
 GPA: **3.01**
 
+**Mahidol University**  
+MASTER OF ENGINEERING PROGRAM IN COMPUTER ENGINEERING
+GPA: studying
+
 ---
 
 ## 🛠️ Skills
