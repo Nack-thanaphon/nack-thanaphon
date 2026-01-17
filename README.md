@@ -42,7 +42,7 @@ Bachelor of Arts in Religion Studies
 GPA: **3.01**
 
 **Mahidol University**  
-MASTER OF ENGINEERING PROGRAM IN COMPUTER ENGINEERING
+Master of Engineering in Computer Engineering  
 GPA: studying
 
 ---
