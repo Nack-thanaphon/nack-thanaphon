@@ -3,7 +3,6 @@
 📍 **Bangkok, Thailand**  
 📧 [e21bvz@gmail.com](mailto:e21bvz@gmail.com)  
 📱 063-674-9204  
-📽️ [Project Showcase](https://shorturl.at/VMoFx)  
 🔗 [LinkedIn](https://www.linkedin.com/in/thanaphon-kallaprapruek)  
 🌐 [contactus.work](https://contactus.work/#/)
 
@@ -64,38 +63,6 @@ GPA: studying
 - **CCDC Data Exchange:** Kafka-powered inter-department communication; deployed on Kubernetes.
 - **SKT Connect:** Microservices e-commerce platform with full API documentation and test automation.
 
----
-
-## 🌐 Web Apps & Platforms
-
-| Project | Link |
-|--------|------|
-| AUN-HPN | [Visit](https://aun-hpn.or.th/) |
-| MUGH | [Visit](https://mugh.or.th/) |
-| CCDC Data Center | [Visit](https://ccdc-center.zi-platform.com/) |
-| FuFu-Cargo | [Visit](https://portal.fufucargo.com/login) |
-| Gogo-Cargo | [Visit](https://www.gogo-cargo.com/) |
-| Pd-House | [Visit](https://www.pd.co.th/) |
-| Mybeer Store | [Visit](https://myworld-store.com/) |
-| Mybeer Admin | [Visit](https://admin-myworld.vercel.app/login) |
-| Metanet | [Visit](https://dev.wonderland.metanetcorporation.com/) |
-| Living-insider | [Visit](https://test2.livinginsider.com/living_edit.php) |
-| Sufflix | [Visit](http://165.22.249.204:8080/) |
-| ปลาท่าโร่ | [Visit](https://taro.bigplay.uniga.app/) |
-| PPC Web | [Visit](https://ppc.uniga.app/) |
-| Clover App | [Visit](https://clover-app.netlify.app) |
-| GunJaGold | [Visit](https://gunjagold.com) |
-| Emerald-Gold | [Visit](http://www.emerald-grow.com/) |
-| LocoPack | [Visit](https://www.locopack.co/) |
-| UBIS Asia | [Visit](https://www.ubisasia.com/) |
-| DITP CRMS | [Visit](https://care.ditp.go.th/) |
-| IBSC MCU | [Visit](https://www.ibsc.mcu.ac.th/) |
-| SKT Connect | [Visit](http://skt-connect.com/) |
-| Data Exchange | [Visit](http://center-data-exchange.com) |
-| Clinic Management | [Visit](https://clinic-client-app.vercel.app/) |
-| THACCA | [Visit](https://thacca.go.th/) |
-
----
 
 ## 🤝 Let’s Connect
 
